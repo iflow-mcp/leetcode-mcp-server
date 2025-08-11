@@ -1,5 +1,5 @@
 {
-    "name": "@jinzcdev/leetcode-mcp-server",
+    "name": "@iflow-mcp/leetcode-mcp-server",
     "description": "MCP Server for LeetCode API (supports leetcode.com and leetcode.cn)",
     "version": "1.2.0",
     "author": "jinzcdev",
